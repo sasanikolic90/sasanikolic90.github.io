@@ -3,8 +3,8 @@ layout: post
 title:  "[Paragraphs] Nested Paragraphs translation"
 author: sasanikolic
 date:   2017-06-30 12:00:00 +0200
-thumbnail: /assets/img/posts/paragraphs-translation-1.png
-categories: drupal
+thumbnail: /assets/img/posts/paragraphs-logo.png
+category: paragraphs
 keywords: drupalplanet, gsoc, drupal, ckeditor plugins, translation
 permalink: /blog/nested-paragraphs-translation/
 ---

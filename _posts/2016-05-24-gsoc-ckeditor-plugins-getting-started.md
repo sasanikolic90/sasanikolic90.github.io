@@ -3,7 +3,8 @@ layout: post
 title:  "[GSoC 2016] Getting started"
 author: sasanikolic
 date:   2016-05-24 10:55:00 +0200
-categories: gsoc-2016
+category: gsoc-2016
+thumbnail: /assets/img/google-summer-of-code.png
 keywords: drupalplanet, gsoc, drupal, ckeditor plugins, translation
 usemathjax: true
 permalink: /blog/gsoc-getting-started/

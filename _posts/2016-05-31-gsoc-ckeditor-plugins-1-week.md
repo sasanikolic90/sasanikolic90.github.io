@@ -4,6 +4,7 @@ title:  "[GSoC 2016] CKEditor plugins - 1. week"
 author: sasanikolic
 date:   2016-05-31 13:05:00 +0200
 categories: gsoc-2016
+thumbnail: /assets/img/google-summer-of-code.png
 keywords: drupalplanet, gsoc, drupal, ckeditor plugins, translation
 permalink: /blog/gsoc-week-1/
 ---

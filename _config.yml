@@ -80,7 +80,7 @@ author_project_details:
               - project_thumbnail: canyon.png
                 project_title: Canyon bikes outlet scraper
                 project_description: A Python web scraper built for scraping a page with outlet bikes. The app sends a email notification when the page changes.
-                project_url: _enter_url_here_
+                project_url: https://github.com/sasanikolic90/python-scraper
                 visibility: true
               - project_thumbnail: ckeditor-plugins.png
                 project_title: TMGMT CKeditor plugins
@@ -112,7 +112,7 @@ wakatime_username: sasanikolic90
 #mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: nikolic.sasa09@gmail.com
+formspree_email: f/xaylladv
 
 # syntax highlighter
 markdown: kramdown
