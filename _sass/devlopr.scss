@@ -787,7 +787,9 @@ figcaption {
 
 
 .company-logo {
-    width: 100px;
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
     height: 100px;
 }
 
