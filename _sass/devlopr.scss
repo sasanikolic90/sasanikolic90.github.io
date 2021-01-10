@@ -552,19 +552,40 @@ figcaption {
 
 /* jumbotron */
 .jumbotron {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 500px;
   background-color: var(--main-background-color) !important;
-  background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+  background-image: url('../img/header/header.jpg');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
 }
+
+.jumbotron-heading {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: var(--light);
+  background: rgba(255, 118, 1, 0.75);
+  font-size: 35px;
+}
+
+.jumbotron .lead {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: var(--light) !important;
+  background: rgba(255, 118, 1, 0.75);
+}
+
 /* pagination */
-.pagination-link{
+.pagination-link {
   padding:15px;
   background-color: var(--card-background-color);
   text-decoration: none;
 }
-.pagination-link a:hover{
+.pagination-link a:hover {
   background-color: var(--main-background-color);
   text-decoration: none;
 }
@@ -575,11 +596,6 @@ figcaption {
   list-style: none;
   border-radius: .25rem;
   margin-left: 20px !important;
-}
-
-.jumbotron-heading{
-  color: #111;
-  font-size: 35px;
 }
 
 .lead {
