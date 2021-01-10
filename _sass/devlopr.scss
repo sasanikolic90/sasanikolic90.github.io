@@ -683,11 +683,15 @@ figcaption {
   grid-template-columns: 1fr 50fr 4fr;
 }
 
-#recent-articles,#recent-projects{
+#recent-articles ul {
+  margin-left: 0 !important;
+}
+
+#recent-articles,#recent-projects {
   margin-top: 100px !important;
 }
 
-#recent-articles-header{
+#recent-articles-header {
   display: grid;
   width: 100%;
   grid-template-columns: 17fr 2fr;
@@ -714,14 +718,14 @@ figcaption {
   font-size: 20px;
   text-decoration: none;
 }
-.article-card-link, .article-card-link:hover{
+.article-card-link, .article-card-link:hover {
   text-decoration: none;
   color: orange !important;
 }
-.article-card{
+.article-card {
   list-style-type: none;
 }
-.article-card a :hover{
+.article-card a :hover {
   text-decoration: none;
   background: #303030!important;
   border-color: #303030;
@@ -817,6 +821,13 @@ figcaption {
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
+#contact_me_footer {
+  background-color: var(--newsletter-background-color);
+  color: var(--main-text-color);
+  margin-top: 100px;
+  width: 100%;
+  padding: 50px;
+}
 
 #newsletter_footer {
   background-color: var(--newsletter-background-color);
