@@ -57,3 +57,6 @@ in today's stack, and functional programming with the super tiny 1kB framework H
 Last but not least, although in unfortunate circumstances, I am really happy that the World realized that remote work is not easy, but definitely possible.
 Although it requires a lot of self-discipline, organisation and motivation, I am happy to see that the tooling, team structuring and communication are improving significantly.
 I personally would love to return to working in an office someday, but I think that the movement to allow more remote work is an overall positive. 
+
+### Conclusion
+Although some of these technologies are not completely new, I will try to write learn as much as possible and write frequently about my progress. Let 2021 be full of learning, exploring and enhancing our perspectives.
