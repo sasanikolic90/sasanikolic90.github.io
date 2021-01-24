@@ -552,13 +552,14 @@ figcaption {
 
 /* jumbotron */
 .jumbotron {
+  position: relative;
   display: flex;
   flex-flow: column;
   justify-content: center;
   align-items: flex-start;
   height: 500px;
   background-color: var(--main-background-color) !important;
-  background-image: url('../img/header/header.jpg');
+  background-image: url('../img/header/header-cropped.jpg');
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -577,6 +578,17 @@ figcaption {
   padding-right: 10px;
   color: var(--light) !important;
   background: rgba(255, 118, 1, 0.75);
+}
+
+.jumbotron .credits {
+  position: absolute;
+  right: 10px;
+  bottom: 5px;
+
+  &,
+  a {
+    color: var(--light) !important;
+  }
 }
 
 /* pagination */
