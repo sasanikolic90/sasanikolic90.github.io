@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7 technologies I'm excited about in 2021"
-summary: "New year, new challenges and new technologies. In this blog post I want to discuss some of the technologies I'm excited about and will be investing my learning time in this year."
+summary: "New year, new challenges and new technologies. In this blog post I want to discuss some of the things I'm excited about and will be investing my learning time in this year."
 author: sasanikolic
 date: '2020-01-24 19:40:00 +0200'
 category: tech-2021
@@ -32,7 +32,6 @@ I am really astonished by the broad horizons that this technology can bring to o
 use cases that require further research. Autonomous driving is one popular use case with an increasing trend that I'm particularly interested in and fascinated by what Tesla, among others, are doing.
 
 ### AI-based chatbots
-
 If something is popular in 2021 that makes website owners and users upbeat, it is undoubtedly AI-powered chatbots. 
 The introduction of bots to the websites has massively impacted the user engagement, and some statistics show that almost 90% of companies have implemented chatbots on their websites.
 Top web app development companies have chatbots implemented on their websites and recommend their customers the same to take their business to the next level.
