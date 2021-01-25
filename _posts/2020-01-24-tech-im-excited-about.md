@@ -59,4 +59,4 @@ Although it requires a lot of self-discipline, organisation and motivation, I am
 I personally would love to return to working in an office someday, but I think that the movement to allow more remote work is an overall positive. 
 
 ### Conclusion
-Although some of these technologies are not completely new, I will try to write learn as much as possible and write frequently about my progress. Let 2021 be full of learning, exploring and enhancing our perspectives.
+Although some of these technologies are not completely new, I will try to learn as much as possible and write frequently about my progress. Let 2021 be full of exploring, enhancing our perspectives and broadening our horizons.
