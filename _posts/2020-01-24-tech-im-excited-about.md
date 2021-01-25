@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7 Technologies I'm excited about in 2021"
+title:  "7 technologies I'm excited about in 2021"
 summary: "New year, new challenges and new technologies. In this blog post I want to discuss some of the technologies I'm excited about and will be investing my learning time in this year."
 author: sasanikolic
 date: '2020-01-24 19:40:00 +0200'
