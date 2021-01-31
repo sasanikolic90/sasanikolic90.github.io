@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saša Nikolič</title>
+    <description>This is my window to the open internet world.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 Jan 2021 12:21:37 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Jan 2021 12:21:37 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+
+    
+      <item>
+        <title>7 technologies I'm excited about in 2021</title>
+        <description>&lt;h2 id=&quot;blockchain&quot;&gt;Blockchain&lt;/h2&gt;
+&lt;p&gt;What better way to start the year, than seeing the blockchain technologies and its respective speculative prices blow off the roof.&lt;/p&gt;
+
+&lt;p&gt;Not only that, we are also starting to see big enterprises starting to realize the potential of the emerging technology. We already have
+IOTA blockchain being used to track Covid-19 test results at Frankfurt airport, VET being widely used in supply management and I could list many other examples.&lt;/p&gt;
+
+&lt;p&gt;I think some reasons why blockchain will trend in 2021 are the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A better, faster and safer alternative to money transfer with lower fees&lt;/li&gt;
+  &lt;li&gt;Simple and easy to use&lt;/li&gt;
+  &lt;li&gt;Decentralized - helps prevent scandals, privacy violations, etc.&lt;/li&gt;
+  &lt;li&gt;Easy to integrate in existing tech stack, like AI and IoT&lt;/li&gt;
+  &lt;li&gt;Easy to create and sell new digital products&lt;/li&gt;
+  &lt;li&gt;High interoperability&lt;/li&gt;
+  &lt;li&gt;Can be used for digital identity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;machine-learning--artificial-intelligence&quot;&gt;Machine learning / Artificial Intelligence&lt;/h3&gt;
+&lt;p&gt;After I finished my masters degree a few years back, I was really considering doing a PhD at ETH about Artificial Intelligence.
+I am really astonished by the broad horizons that this technology can bring to our lives and I feel like there are lots of high value
+use cases that require further research. Autonomous driving is one popular use case with an increasing trend that I’m particularly interested in and fascinated by what Tesla, among others, are doing.&lt;/p&gt;
+
+&lt;h3 id=&quot;ai-based-chatbots&quot;&gt;AI-based chatbots&lt;/h3&gt;
+&lt;p&gt;If something is popular in 2021 that makes website owners and users upbeat, it is undoubtedly AI-powered chatbots. 
+The introduction of bots to the websites has massively impacted the user engagement, and some statistics show that almost 90% of companies have implemented chatbots on their websites.
+Top web app development companies have chatbots implemented on their websites and recommend their customers the same to take their business to the next level.&lt;/p&gt;
+
+&lt;h3 id=&quot;meta-frameworks&quot;&gt;Meta-frameworks&lt;/h3&gt;
+&lt;p&gt;In 2021 one framework is not enough anymore. Thus, we need meta-frameworks to enhance the developer experience.
+I am really willing to try out Next.js and N**t family of frameworks, since I haven’t touched React for a while now and would like to catch up in that regard.&lt;/p&gt;
+
+&lt;p&gt;Gatsby has also been a force in the industry over the past few years, so I am really excited to put it on test for some of my personal projects, possibly also in combination with Drupal 9.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-cloud&quot;&gt;The cloud&lt;/h3&gt;
+&lt;p&gt;This is nothing completely enw for 2021 per se, but I just started learning more about it now. I remember manually deploying apps on servers in my first student job. 
+It was a completely manual process and prone to errors, but also didn’t scale at all. Cloud computing and AWS are nice skills to have nowadays, so I am really looking forward to dive deeper into this topic this year.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-frameworks&quot;&gt;New frameworks&lt;/h3&gt;
+&lt;p&gt;I think that we, as software developers must never stop learning and adapting to the changing technologies. Especially in the past few years,
+things are moving at the speed of sound in the “frontend world” with all the new JS frameworks and styleguides, that it can feel overwhelming.
+Because I really hate the feeling of stagnating, I’m excited about the newer performance-focused family of frontend frameworks. Svelte seems like a good fit
+in today’s stack, and functional programming with the super tiny 1kB framework Hyperapp seems intriguing.&lt;/p&gt;
+
+&lt;h3 id=&quot;remote-work&quot;&gt;Remote work&lt;/h3&gt;
+&lt;p&gt;Last but not least, although in unfortunate circumstances, I am really happy that the World realized that remote work is not easy, but definitely possible.
+Although it requires a lot of self-discipline, organisation and motivation, I am happy to see that the tooling, team structuring and communication are improving significantly.
+I personally would love to return to working in an office someday, but I think that the movement to allow more remote work is an overall positive.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Although some of these technologies are not completely new, I will try to learn as much as possible and write frequently about my progress. Let 2021 be full of exploring, enhancing our perspectives and broadening our horizons.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jan 2020 17:40:00 +0000</pubDate>
+        <link>/blog/technologies-2021/</link>
+        <guid isPermaLink="true">/blog/technologies-2021/</guid>
+      </item>
+    
+      <item>
+        <title>[Paragraphs] Nested Paragraphs translation</title>
+        <description>&lt;p&gt;Looking back, translating content in Drupal 7 wasn’t a straightforward task. It involved enabling a number of modules to do all the translations properly. In Drupal 8 however, the Multilingual Initiative took big steps forward to enhance multilingual support for users.&lt;/p&gt;
+
+&lt;p&gt;Since its introduction in May, 2011, huge efforts by everyone involved resulted in hundreds of issues resolved and many great improvements have since been made that now drastically simplifies the site building process.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, basic Drupal content management can be extended with many modules. One of the most popular is Paragraphs. Instead of putting the content in one WYSIWYG body field, it lets users choose between predefined Paragraph Types. These can be anything from a simple text field to a combination of images, text, videos and slideshows.&lt;/p&gt;
+
+&lt;p&gt;We are extensively using Paragraphs at Amazee Labs for our content-rich websites and opted for its use for our first fully-decoupled Drupal project as well.&lt;/p&gt;
+
+&lt;p&gt;Paragraphs in Drupal 7 currently lacks support for Entity Translation. However, this has been successfully implemented in its new iteration and I personally contributed in this process. The translation process is not as straightforward as translating basic nodes or other entities and users are still facing many issues. For a better understanding of the topic, a community documentation page for &lt;a href=&quot;https://www.drupal.org/node/2735121&quot;&gt;Paragraphs Multilanguage constraints&lt;/a&gt; was created on &lt;a href=&quot;https://www.drupal.org&quot;&gt;Drupal.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This page covers only the basic setup and some general constraints. But how do we set it up for complex projects, with many levels of nested paragraphs? Let’s recap the basics first and dig deeper in nested paragraph translation a bit later.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-rules&quot;&gt;Basic rules&lt;/h2&gt;
+&lt;p&gt;The Paragraphs module works within a multi-language setup but there are crucial steps in order to achieve the correct functionality. We can split the set up into two parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Site building:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Translatable paragraph fields on the parent entity are not supported (e.g. Node, Taxonomy term, etc.)&lt;/li&gt;
+      &lt;li&gt;Disable translation on an Entity Reference revision field either inside a Content type or Paragraph (untick Users may translate this field)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Content language and translation UI:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Disable translation on an Entity Reference revision field (where it says (* unsupported))&lt;/li&gt;
+      &lt;li&gt;Enable the translation on every Paragraph&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
+&lt;p&gt;That being said, let’s look at an example of the correct and incorrect way to enable translatable paragraphs.&lt;/p&gt;
+
+&lt;p&gt;The first point says that whenever we create a field that holds paragraph elements on the first level - on a content type, for example, should not be translatable. The example node, in this case, contains a Content field (field_landing_page_content) which is a reference to many other Paragraphs, like Gallery and Accordion. This field must &lt;strong&gt;NOT&lt;/strong&gt; be set to translatable - “Users may translate this field” should be &lt;strong&gt;unchecked&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/paragraphs-translation-1.png&quot; alt=&quot;Uncheck users may translate this field&quot; /&gt;
+    &lt;figcaption&gt;&quot;Users may translate this field” should be unchecked!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Instead, only Paragraph types that contain content fields, like links, texts or images need to be set to translatable, because this fields itself need to be translated.&lt;/p&gt;
+
+&lt;p&gt;To activate the multi-language functionality you need to go to: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;admin/config/regional/content-language&lt;/code&gt;. This step is crucial when dealing with nested Paragraphs. In our case we use a structure with 3 levels of paragraphs that looks like this:&lt;/p&gt;
+
+&lt;p&gt;~ &lt;strong&gt;1st Level Page&lt;/strong&gt; (Node)&lt;/p&gt;
+
+&lt;p&gt;~ ~ &lt;strong&gt;Content&lt;/strong&gt; (Entity reference revisions field, not translatable)&lt;/p&gt;
+
+&lt;p&gt;~ ~ ~ &lt;strong&gt;Section&lt;/strong&gt; (Paragraph, has Entity reference revisions field Content with Accordion Paragraph and others)&lt;/p&gt;
+
+&lt;p&gt;~ ~ ~ ~ &lt;strong&gt;Accordion&lt;/strong&gt; (Paragraph, has Entity reference revisions field Accordion container with different accordion paragraphs)&lt;/p&gt;
+
+&lt;p&gt;~ ~ ~ ~ ~ &lt;strong&gt;Simple Accordion Item&lt;/strong&gt; (Paragraph, has Entity reference revisions field Content with different content paragraphs)&lt;/p&gt;
+
+&lt;p&gt;~ ~ ~ ~ ~ ~ &lt;strong&gt;Title, Text, Video, Gallery etc.&lt;/strong&gt; (Paragraph, text, link and Entity reference (media) fields)&lt;/p&gt;
+
+&lt;p&gt;As a first step here, make sure Paragraph is checked.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/paragraphs-translation-2.png&quot; alt=&quot;Paragraph should be checked&quot; /&gt;
+    &lt;figcaption&gt;Make sure &quot;Paragraph&quot; is checked.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Under the 1st level page, the content should &lt;strong&gt;NOT&lt;/strong&gt; be set to translatable. The Paragraphs module is smart enough to warn us about the Entity reference revisions fields being currently unsupported (there is a &lt;a href=&quot;https://www.drupal.org/node/2461695&quot;&gt;big meta ticket&lt;/a&gt; about this topic on d.o.).&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/paragraphs-translation-3.png&quot; alt=&quot;Content untranslatable&quot; /&gt;
+    &lt;figcaption&gt;Content should be set to untranslatable.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Next, we need to dig into the fun part - the Paragraph section. Let’s look at the example mentioned above. Every Paragraph should be set translatable.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/paragraphs-translation-4.png&quot; alt=&quot;Translatable paragraphs&quot; /&gt;
+    &lt;figcaption&gt;Paragraphs should be translated.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;At least one field should be selected in order for a Paragraph to be translatable. If the Paragraph has only one field, which is of type Entity reference revisions (a linking Paragraph), we need to check some of the default text fields.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/paragraphs-translation-5.png&quot; alt=&quot;Select at least one field&quot; /&gt;
+    &lt;figcaption&gt;Select at least one field per Paragraph.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here we want to translate specific text fields as usual.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/paragraphs-translation-6.png&quot; alt=&quot;Translating text&quot; /&gt;
+    &lt;figcaption&gt;Text translation in a Paragraph should be always enabled.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Saving this configuration should get you up and running and ready to go. Happy Paragraph translating!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Jun 2017 10:00:00 +0000</pubDate>
+        <link>/blog/nested-paragraphs-translation/</link>
+        <guid isPermaLink="true">/blog/nested-paragraphs-translation/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 12. week</title>
+        <description>&lt;p&gt;This week marks the official end of my Google Summer of Code 2016 project. For the past 3 months I have been working hard on developing a rich and usable user experience for translators using the &lt;a href=&quot;https://www.drupal.org/project/tmgmt&quot;&gt;Translation Management Tool module&lt;/a&gt; in Drupal 8.
+The main goal was to create two CKEditor plugins. The first plugin would convert text parts into segments to easily &lt;em&gt;segment the content&lt;/em&gt; into smaller bits and enable easier translation management. It’s also connected with the &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;Translation Memory&lt;/a&gt;, 
+to provide saved translation suggestions for requested segments. The second plugin is about &lt;em&gt;masking HTML tags&lt;/em&gt; inside segments. This really helps to understand the structure better and cleanly show which opening/closing tags are missing inside a segment.&lt;/p&gt;
+
+&lt;p&gt;I believe the goal was clearly reached quite some time ago. After that, we started implementing more functionality around these two main “pillars”. Users can now click through segments, which are clearly shown in both, the source and the translation editors, and check in the area
+below the editor for the translation suggestions. They can be used to replace the selected segment. Each segment can contain HTML tags, which are masked in the pre-process, before populating the content. They are displayed as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;widgets&lt;/code&gt;, as they can be clickable and draggable.
+If the translation is missing some tags, a warning message is displayed for awareness. When the translation seems to be fine, it can be marked as completed. This increases the counter of completed segments in the sticky division in the top right corner and colors the segment with a green background.&lt;/p&gt;
+
+&lt;p&gt;All of the above currently works fine and more extra features will be added soon!&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;I started last week as always, by working on the feedback that I got from my mentors on our weekly meeting. This mainly involved some UI fixes, like writing a cleaner validation text and displaying the missing tags not as just links, but with the same styling as the tags that are in the editor.
+I’ve also added a title for these missing tags, which is displayed when the user hovers the mouse pointer over them. This helps the user to understand that those are connected and when clicked, they can be placed at the cursor position inside the editor. Also to to save space for smaller screens 
+and to tidy up the table with the translation suggestions in the area below the editor, we’re displaying just a more simple text inside the button - “Use” instead of “Use suggestion”. Another UI feature that I added on my mentor’s suggestion was to mark the active segment that has any 
+missing tags with the red color to indicate it more strongly and clearly.&lt;/p&gt;
+
+&lt;p&gt;Then I moved to the most important thing, the code cleanup, which I think was really needed. I was already using &lt;a href=&quot;http://eslint.org/&quot;&gt;ESLint&lt;/a&gt; - a pluggable JavaScript linter, as a PhpStorm plugin extension, during the coding process which helped me a lot with the code quality, but I felt there 
+could be done something more to run everything faster and cleaner.&lt;/p&gt;
+
+&lt;p&gt;That is why I met with one friend of mine during the weekend and we spent some time reviewing hwo the plugins work and figuring out what could be done better.
+There were three main things that needed to be done:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Split the bigger Javascript functions into many smaller ones when possible&lt;/li&gt;
+  &lt;li&gt;Check how often these functions are called and adjust their scope properly (if they are not called often, we can put them inside the scope of their parent function)&lt;/li&gt;
+  &lt;li&gt;Check for loops for better performance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have also added function comments based on the &lt;a href=&quot;https://www.drupal.org/node/2183405&quot;&gt;JavaScript API documentation&lt;/a&gt; for Drupal and checked everything for the correct syntax (variable names, data types, tag orders…). I am sure the code is much more easier to read now for other developers in the community.&lt;/p&gt;
+
+&lt;p&gt;While working on this, I found out some problems regarding JavaScript closure inside loops. This is related to the binding of of click events for adding the missing tags in the editor. This was an intriguing challenge, but &lt;a href=&quot;http://stackoverflow.com/questions/8909652/adding-click-event-listeners-in-loop&quot;&gt;Stack Overflow&lt;/a&gt;
+ was (as always) a really helpful source for finding a good working solution.&lt;/p&gt;
+
+&lt;p&gt;I also spent quite some time trying to solve the issue regarding widget dragging inside the segments, which are defined as block elements, but still didn’t find any proper solution. I also tried to contact &lt;a href=&quot;https://www.drupal.org/u/nod_&quot;&gt;nod_&lt;/a&gt; and &lt;a href=&quot;https://www.drupal.org/u/wim-leers&quot;&gt;Wim Leers&lt;/a&gt;, but 
+got no positive feedback. Any help from the community on that matter would be appreciated. :)&lt;/p&gt;
+
+&lt;p&gt;Finally, I would like to make a quick overview of how to test my module, list the things that are working and things that are still missing and need work.&lt;/p&gt;
+
+&lt;p&gt;How to test it:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;make sure you have all the dependencies (Translation Management Tool, Paragraphs, Translation Memory)&lt;/li&gt;
+  &lt;li&gt;install the module&lt;/li&gt;
+  &lt;li&gt;for now, only the predefined nodes from my module are working - a simple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Test for CKEditor plugins&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Test for CKEditor plugins with paragraphs&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;request a (german) translation of either one of those two&lt;/li&gt;
+  &lt;li&gt;enable plugins on translate/review page in the editor toolbar&lt;/li&gt;
+  &lt;li&gt;test it (and possibly send me some feedback)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What works:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dummy nodes for testing with new text format&lt;/li&gt;
+  &lt;li&gt;works on nodes with one or more editor pairs (paragraphs)&lt;/li&gt;
+  &lt;li&gt;masking and unmasking the HTML tags&lt;/li&gt;
+  &lt;li&gt;displaying the active segment in both editors&lt;/li&gt;
+  &lt;li&gt;translation memory querying&lt;/li&gt;
+  &lt;li&gt;displaying suggested translations from the memory&lt;/li&gt;
+  &lt;li&gt;using suggested translations - placing the selected one in the active editor&lt;/li&gt;
+  &lt;li&gt;validation of missing tags (globally and per segment)&lt;/li&gt;
+  &lt;li&gt;adding of missing tag&lt;/li&gt;
+  &lt;li&gt;set segments as completed&lt;/li&gt;
+  &lt;li&gt;masked tag dragging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What is currently not working:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;text segmentation (in tmgmt_memory)&lt;/li&gt;
+  &lt;li&gt;saving segmented content properly, so that accepting translation does not save segments but initial content&lt;/li&gt;
+  &lt;li&gt;responsiveness&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note, some of the “not-working” issues listed above are not on my side; either they are out of scope or from a related project.&lt;/p&gt;
+
+&lt;p&gt;Another important thing that we should be aware of: this project provides a number of puzzle pieces towards providing translators and reviewers better tools to work with TMGMT. Many other things are needed until this fully works together with real content.&lt;/p&gt;
+
+&lt;p&gt;My latest code can be found in my &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor&quot;&gt;Github repository&lt;/a&gt; and in my &lt;a href=&quot;https://www.drupal.org/sandbox/sasanikolic/2737249&quot;&gt;sandbox project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;For this last week, I am planning to wrap up my project completely, update the documentation if needed and create issues for my sandbox.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I am very thankful to my mentors &lt;a href=&quot;https://www.drupal.org/u/miro_dietiker&quot;&gt;Miro Dietiker&lt;/a&gt; and &lt;a href=&quot;https://www.drupal.org/u/berdir&quot;&gt;Sascha Grossenbacher&lt;/a&gt; for the constant supervision, guidance and support throughout this amazing experience. Our future plans involve making the initiated project
+fully functional in real world with true translations and real usage. When we will think that it is ready, it will be merged into the TMGMT module and I will actively maintain it.&lt;/p&gt;
+
+&lt;p&gt;I would also like to thank Google for this great opportunity and the open-source community for the support with my project and for pushing technologies forward step by step, every day. During this summer I gained many technical and psychological skills. 
+On one side I got to know myself better and while working remotely I gained a lot of self-discipline and motivation, on the other side it was a real challenge to study and learn JavaScript, together with the CKEditor API. I am sure all the skills gained will pay back someday!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Aug 2016 17:36:00 +0000</pubDate>
+        <link>/blog/gsoc-week-12/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-12/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 11. week</title>
+        <description>&lt;p&gt;We’ve come to the last phase of coding for my Google Summer of Code 2016 project, and things are currently going quite well. The scope of developing CKEditor plugins for the &lt;a href=&quot;https://www.drupal.org/project/tmgmt&quot;&gt;Translation Management Tool module&lt;/a&gt; was really fascinating so far,
+with many challenges to solve and new things to learn every day. I believe my work will significantly help local translators in their translation process by providing a nice content segmentation and translation suggestions. The idea is to create a tool similar to Google Translate, 
+ but with some extra features, like segmenting the text and masking HTML tags inside them.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-10-week/&quot;&gt;Last week&lt;/a&gt; I discussed about the complete overview list of all the things that are already implemented and how I imagined the UI for the new translation process.&lt;/p&gt;
+
+&lt;p&gt;As I got quite some feedback from my mentors on the mockup that I created, I have focused on this part this week. I have extended it with definitions and synonyms for a specific (selected) word that we get for the marked word from the &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;Translation Memory&lt;/a&gt; and 
+created some screenshots, that can be found in my &lt;a href=&quot;https://drive.google.com/open?id=0B3PPGWVax5aya29IWmRZNENxVlk&quot;&gt;Google Drive folder&lt;/a&gt;. Any tips and ideas about the UI are strongly appreciated.&lt;/p&gt;
+
+&lt;p&gt;While working on this topic, I realised that the current scale for the quality of the translations in the memory is not perfectly suitable, since it ranges from 0 to 5. I suggested to the maintainer of the Translation memory project to extend the quality scale to 10. I believe 
+this would result in a more accurate scale of marking the translation’s quality and would be easier for the translator to decide, which translation is better. For that, I opened &lt;a href=&quot;https://www.drupal.org/node/2781253&quot;&gt;this issue&lt;/a&gt; on drupal.org. With the usage of real quality values for 
+the translations, we can get rid of all the hardcoded testing values. The source values are yet to be discussed and implemented properly, after that I can merge the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mockup&lt;/code&gt; branch, which contains the new UI with the main &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;master&lt;/code&gt; branch. The code for the mockup with all 
+the updates can be found &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor/tree/mockup&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another topic that we discussed on our previous weekly meeting was about the validation area. My first idea was to put it in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sticky division&lt;/code&gt; on the right top corner, but with some thinking, we agreed to put it back in the area below the editor. I changed the visual 
+appearance of the warning and proposed two solutions - one that follows the Drupal guidelines for general error messages on the page and another one, that is more simplistic.&lt;/p&gt;
+
+&lt;p&gt;Apart from the UI, I had to fix different issues that I spotted along the testing process. I finally managed to fix the widgets issue described &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-9-week/&quot;&gt;in this blog post&lt;/a&gt;. I did that by setting the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-segment&lt;/code&gt; element 
+as a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;div&lt;/code&gt; element and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-tag&lt;/code&gt; as an inline widget. I believe the nesting issue was caused by setting the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-segment&lt;/code&gt; tag to contain text with this line of code:&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;dtd['tmgmt-segment'] = {'#': 1};
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The next problem that I’m having is with dragging the widget inside the segment. I can’t figure out why the parent segment is created and displayed around the tag when the dragging happens. I will have to dig deeper in the dtd and widgets topic.&lt;/p&gt;
+
+&lt;p&gt;I also spent some time on the performance part, solving an important issue regarding the call of the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;onChange&lt;/code&gt; event function. I am using the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;debouncer&lt;/code&gt; to limit the invocations of this function in a given time frame, since before that, if the user was typing some text 
+the function was called many times, resulting in significant resource consumption.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/full_word_mockup.png&quot; alt=&quot;The full word mockup.&quot; /&gt;
+    &lt;figcaption&gt;The image shows the current status of the mockup for the word selection.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;My workload for next week will be very intense, since I have so many issues opened on various topics.&lt;/p&gt;
+
+&lt;p&gt;Mockup/UI:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use the shorter text for buttons (just “Use”)&lt;/li&gt;
+  &lt;li&gt;Remove the “Use suggestion” in the table header&lt;/li&gt;
+  &lt;li&gt;Display the active segment red if there are missing tags&lt;/li&gt;
+  &lt;li&gt;Change the validation text and the display of the missing tags in the area below&lt;/li&gt;
+  &lt;li&gt;Ordering of the translations should be ascending, not descending, based on quality value&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Code cleanup:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add/remove comments&lt;/li&gt;
+  &lt;li&gt;Extend the documentation&lt;/li&gt;
+  &lt;li&gt;Find bottlenecks&lt;/li&gt;
+  &lt;li&gt;Optimise the code for better performance&lt;/li&gt;
+  &lt;li&gt;Test with bigger nodes, which have many segments and tags&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fixes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The bug with dragging widgets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update the sandbox project&lt;/li&gt;
+  &lt;li&gt;Import translations from a file&lt;/li&gt;
+  &lt;li&gt;Support real translation jobs by applying the segmentation automatically on the source text&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 09 Aug 2016 18:10:00 +0000</pubDate>
+        <link>/blog/gsoc-week-11/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-11/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 10. week</title>
+        <description>&lt;p&gt;August is already here and the 10th week of coding for the Google Summer of Code 2016 project has come to an end. My scope for this summer is to build a functional user interface for the &lt;a href=&quot;https://www.drupal.org/project/tmgmt&quot;&gt;Translation Management Tool module&lt;/a&gt;, 
+ which will significantly help local translators in their translation process. As we are almost at the end of the project, I am starting to wrap things up in a more clean and suitable way.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;As written in my &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-9-week/&quot;&gt;previous blog post&lt;/a&gt;, I struggled to find a solution for displaying the masked tags inside the segments as widgets. I believe this is a crucial part that still needs to be solved. I tried seeking 
+help on stackoverflow (where I opened &lt;a href=&quot;http://stackoverflow.com/questions/38585145/ckeditor-nested-widget&quot;&gt;a thread with my issue&lt;/a&gt;) and I also contacted &lt;a href=&quot;http://stackoverflow.com/users/1464696/reinmar&quot;&gt;Reinmar&lt;/a&gt; - the maintainer of the CKEditor module for Drupal 8, but didn’t get 
+any response so far. I will need to spend some more time this week and solve this &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;blocker&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Other than that, my main goal for this week was to create a nice overview of the things that are currently implemented and displayed in the area below the editor, and think about the things that we can add. Because during the coding process we faced many issues and got so many 
+new (crazy) ideas and added new features, which were not initially planned in the scope of my project, I needed to write a clean checklist.&lt;/p&gt;
+
+&lt;p&gt;As of now, in the area below we were displaying the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;clicked word&lt;/li&gt;
+  &lt;li&gt;active tag&lt;/li&gt;
+  &lt;li&gt;active segment&lt;/li&gt;
+  &lt;li&gt;suggestions from the translation memory&lt;/li&gt;
+  &lt;li&gt;a button for each suggestion&lt;/li&gt;
+  &lt;li&gt;completed segments counter&lt;/li&gt;
+  &lt;li&gt;global counter of missing tags&lt;/li&gt;
+  &lt;li&gt;missing tags per active segment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other important things, that are implemented:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;display the active segment in both editors (source and translation)&lt;/li&gt;
+  &lt;li&gt;translation memory lookup&lt;/li&gt;
+  &lt;li&gt;replacement of the segment with the suggestion&lt;/li&gt;
+  &lt;li&gt;context menu for marking segments as completed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once I had this written down, I had to define the features, that I consider out of scope for my project. In the last weekly meeting we got a great idea of implementing a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;wizard&lt;/code&gt;, that will guide the users step-by-step over the translation process. By clicking on a button, 
+it would be possible to translate each segment one by one, with potential validation warnings in between the translation process. I believe this is absolutely out of scope, as it would take too much time for now and we have other priorities. 
+Another thing that I won’t find time to implement is an external library of definitions and synonyms of words (a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;dictionary&lt;/code&gt;). This needs to be done in TMGMT and we’ll have to consider this once the initial version is complete.&lt;/p&gt;
+
+&lt;p&gt;After that, my next goal was to create a mockup of my ideas, how the final product should look like. As a reference point, I took Google Translate, which has a really nice and useful UI, but with so many functionalities, it can really be confusing sometimes. My initial idea was 
+to separate the UI into three main parts. The area inside the editor, the area below the editor and a new one, a scrollable sticky division at the top right corner.&lt;/p&gt;
+
+&lt;p&gt;The area inside the editor consists of the widgets for the masked tags and the segments. The tags should be draggable with a handle bar, while the segments should persist in their position. While the segments are defined as block elements, the tags are inline elements. 
+This means that both, tags and segments are nicely marked and easy to spot in the editor’s area.&lt;/p&gt;
+
+&lt;p&gt;For the are below the editor, I need to adapt to the Drupal 8 GUI. As everything seems to be quite squared, with straight lines and borders, my proposal would be to have line, stating which segment is being translated and a simple table, where the rows would be the 
+translation suggestions and columns would hold the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quality (of the translation suggestion)&lt;/li&gt;
+  &lt;li&gt;Source (human or machine)&lt;/li&gt;
+  &lt;li&gt;Translation suggestion&lt;/li&gt;
+  &lt;li&gt;Use suggestion (a button)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/area_below_mockup.png&quot; alt=&quot;The mockup of the area below the editor.&quot; /&gt;
+    &lt;figcaption&gt;The mockup of the area below the editor.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For the quality, I used the &lt;a href=&quot;https://css-tricks.com/html5-meter-element/&quot;&gt;HTML5 meter element&lt;/a&gt;. It represents a scalar measurement within a known range, or a fractional value. The attributes are really easy to set and I like the look of it.&lt;/p&gt;
+
+&lt;p&gt;If you ask me, the buttons in Drupal 8 are not that user friendly, especially if used in a context seen above. I would change the add suggestion button to a button with a check icon and see how that looks.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sticky division&lt;/code&gt; would hold some important information, such as the counter of the completed segments and the validation counters. I proposed to this two things here, because they are both numerical counters and are easy to spot at first sight. The background of this 
+element would adapt to the tag validation. If all translations would be valid, it would be green, in other case I would set the background to red. In our weekly meeting with my mentors, we discussed this matter. They didn’t like the solution for the validation part and would rather 
+have it in the area below the editor. The reason for this is understandable, as the area below the editor holds the parts, that the user can interact with - and the validation part that displays the missing tags is clickable, so that the user can place them in the editor at the cursor position. 
+I will need to rethink and redefine my mockup to fit the validation part properly in the following week.&lt;/p&gt;
+
+&lt;p&gt;I already implemented my ideas on a separate branch called &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor/tree/mockup&quot;&gt;mockup&lt;/a&gt;, which will still be in constant development until we find a proper final solution.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;From this weekly meeting with my mentors I got some inputs on how to test and improve my code performance. I will work on that for a day or two, but mainly I will work on the mockup and other small fixes that we found lately. 
+I will also implement the adding of the missing  tags from the validation message, since this is not implemented yet - I needed some feedback there.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Aug 2016 20:11:00 +0000</pubDate>
+        <link>/blog/gsoc-week-10/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-10/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 9. week</title>
+        <description>&lt;p&gt;We are already at the end of July and we just passed the ninth week of coding for the Google Summer of Code 2016 program, which I’m also part of. I am working on extending the Translation Management module with new, very useful functionalities that users will love. Specifically, 
+I am extending the CKEditor with new plugins for easier segmentation of the content and masking the HTML tags that are inside them. This will result in a much nicer user experience in translating the content by the local translators.&lt;/p&gt;
+
+&lt;p&gt;My current work is based on the masked HTML tags. The masking was properly defined and implemented in the previews weeks. More info about the structure can be found &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-7-week/&quot;&gt;here&lt;/a&gt;. During that implementation I encountered 
+a few issues, which I managed to solve successfully. This was thourougly described in my &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-8-week/&quot;&gt;latest blog post&lt;/a&gt;.
+Below is a description of the progress that I achieved this week.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;As planned, I started this week by implementing a validation of the masked tags. This consists of looping over every segment, displaying the counter of found missing tags in the translation editor based on the source editor, and the array of missing tags. For the purpose of testing, I removed some tags from the dummy
+segments, that were stored in the translation memory. Both, the counter and the exact missing tags are displayed in the area below the editor, as soon as a missing tag is detected.&lt;/p&gt;
+
+&lt;p&gt;This means, that we do the validation at many levels:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;when the editors are loaded&lt;/li&gt;
+  &lt;li&gt;when we add a suggestion from the memory&lt;/li&gt;
+  &lt;li&gt;when we detect that the content was changed with the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CKEDITOR.on('change')&lt;/code&gt; event.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The benefit of displaying the missing tags is crucial here, so that the translator gets warned about the possibility to have an incorrect DOM structure of the translated text. Later on 
+we might add an option for the user to click on a missing tag and &lt;em&gt;drag&amp;amp;drop&lt;/em&gt; it into the editor.&lt;/p&gt;
+
+&lt;p&gt;My focus this week was also on converting the tags to widgets. This is needed because the DOM structure of the content that the browser renders was completely wrong - the closing tags were automatically added. As &lt;a href=&quot;http://stackoverflow.com/users/1464696/reinmar&quot;&gt;Reinmar&lt;/a&gt; 
+pointed out in &lt;a href=&quot;http://stackoverflow.com/questions/29581028/problems-with-a-custom-self-closing-tag-in-ckeditor&quot;&gt;this thread&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You need to implement your &lt;cut&gt; tag as a widget. You already configured your DTD pretty well (you only forgot to set in what elements the &lt;cut&gt; element can exist and whether it is more like a block or inline element), 
+so the parser will accept it and handle as an empty tag. Now you need to wrap it with a widget in order to isolate it so it does not break the editing experience. That should do the trick.&lt;/cut&gt;&lt;/cut&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, firstly, I managed to configure our &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-segment&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-tag&lt;/code&gt; elements in the DTD. My idea was to create a block element - the segment, and an inline element - the tag. This worked completely fine. After I converted the tag to an inline widget, I found some issues, which 
+I unfortunately still need to solve. The widgets are displayed and are completely draggable, which is great, but they are not in the correct place anymore. They are somehow being placed outside of the segments. I will need to investigate this issue a bit more. One solution 
+would be to try and convert also the segment to a non-draggable widget, since I have read somewhere that nested widgets are supported in the latest version of CKEditor.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/widgets.png&quot; alt=&quot;Tags as widgets&quot; /&gt;
+    &lt;figcaption&gt;The current issue can be seen in this screenshot.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The code of my widget progress can be found in my Github account. I created a new branch called widget, which is accessible &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor/tree/widgets&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;I will spend an hour or two on trying to solve the issue described above in the next week.&lt;/p&gt;
+
+&lt;p&gt;My main goal will rather be to create a complete overview of what is currently implemented and displayed in the area below the editor, and think about the things that we can add.&lt;/p&gt;
+
+&lt;p&gt;I will also create a mockup of my ideas, how the final product should look like and discuss about that with my mentors. We discussed about adding some kind of a wizard, which would help the user in the translation process by guiding you through the steps of what still needs work 
+or review. I will take that in consideration for the mockups.&lt;/p&gt;
+
+&lt;p&gt;Last, but not least, I will do some refactoring of a few pieces of code to get a better performance of my module.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jul 2016 16:30:00 +0000</pubDate>
+        <link>/blog/gsoc-week-9/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-9/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 8. week</title>
+        <description>&lt;p&gt;The eight week of my Google Summer of Code 2016 development process is over and the &lt;a href=&quot;https://www.drupal.org/project/tmgmt&quot;&gt;Translation Management module&lt;/a&gt; for Drupal 8 is closer to becoming a much much better CAT tool than it ever was. My contribution to this project
+consists of developing CKEditor plugins for displaying pieces of content - segments, and masked tags inside them. Since we already passed the first midterm evaluation period, we are slowly but steadily moving forward the end goal of having a functional product that 
+the open source community can use.&lt;/p&gt;
+
+&lt;p&gt;Currently, I am working on the second plugin for masking &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;HTML tags&lt;/code&gt; that are inside segments. The purpose of this plugin is to easily check the structure of the content and be warned of any missing or unclosed tags.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-7-week/&quot;&gt;Last week&lt;/a&gt; I found some important blockers, which prevented me to make significant progress.&lt;/p&gt;
+
+&lt;p&gt;I successfully managed to fix the one regarding the matching of segments containing masked tags. 
+The idea behind the translation of segments is to get the active segment, together with the masked &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;HTML tags&lt;/code&gt; inside it and make a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;HTTP request&lt;/code&gt; to the &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;translation memory&lt;/a&gt;. If one or more &lt;em&gt;perfect&lt;/em&gt; matches are found, 
+we display that as a suggestion and the user can then easily replace the text the chosen one. The main issue I faced here was the fact that the masking and unmasking of the tags was not yet supported by TMGMT. Together with the &lt;em&gt;MD Systems team&lt;/em&gt; we worked on this part, 
+and the final patch for &lt;a href=&quot;https://www.drupal.org/node/2757813&quot;&gt;this issue&lt;/a&gt; should be committed soon. My mentors, &lt;a href=&quot;https://www.drupal.org/u/miro_dietiker&quot;&gt;Miro Dietiker&lt;/a&gt; and &lt;a href=&quot;https://www.drupal.org/u/berdir&quot;&gt;Sascha Grossenbacher&lt;/a&gt; were providing constant support and 
+guidelines in finding the optimal solution.&lt;/p&gt;
+
+&lt;p&gt;Once that was done, I could work on top of it and define a new workflow with one additional step:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Masking the tags with TMGMT.&lt;/li&gt;
+  &lt;li&gt;Encode the masked tag before sending it through the HTTP request to the service controller.&lt;/li&gt;
+  &lt;li&gt;Unmask the tag.&lt;/li&gt;
+  &lt;li&gt;Query the segment with the unmasked tag in the translation memory.&lt;/li&gt;
+  &lt;li&gt;If we have a match, mask it and return it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Because the segments in the memory are not masked, we need to properly invoke the mask and unmask function the service controller. The problem here was that we cannot call alter hooks from my controller. As a quick solution, we provided them as simple external functions, which 
+can then be called in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hook_tmgmt_data_item_text_output_alter()&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;hook_tmgmt_data_item_text_input_alter()&lt;/code&gt; hooks respectively to mask the tags on load and unmask on save, but also in the controller.&lt;/p&gt;
+
+&lt;p&gt;The second issue that I stumbled upon last week was related to the closing tags. Since we defined our custom tag - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-tag&lt;/code&gt;, it needed to be added to the list of empty (self-closing) elements in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CKEDITOR.dtd&lt;/code&gt;object. This only solved the issue partially. Yes, 
+the source in the editor shows the HTML structure completely right, but the DOM structure that the browser renders is still wrong. I found only &lt;a href=&quot;http://stackoverflow.com/questions/29581028/problems-with-a-custom-self-closing-tag-in-ckeditor&quot;&gt;one forum thread&lt;/a&gt; on 
+&lt;em&gt;stackoverflow&lt;/em&gt; regarding the same issue. The solution would be to implement our &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt-tag&lt;/code&gt; as a widget. Regarding the CKEditor API, to do that, CKEditor 4.3 and above is needed and most importantly, the &lt;a href=&quot;http://ckeditor.com/addon/widget&quot;&gt;Widget plugin&lt;/a&gt;, along with its dependencies.
+I tried to implement it, but it seems like that the widget plugin is not part of Drupal 8 yet.&lt;/p&gt;
+
+&lt;p&gt;To solve this, I will follow my two options:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;contact the maintainers of the CKEditor for Drupal to get more info&lt;/li&gt;
+  &lt;li&gt;include it in my module&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other than fixing last week’s issues, I created a new branch in my &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor/&quot;&gt;Github repository&lt;/a&gt; and started with refactoring. Based on my prototype &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;EditorPair&lt;/code&gt;, I changed some functions to prototype methods. The idea here is 
+that the functions should not access any data on the page, just do the logic. The prototype and its methods will be moved to a new file, so that the code would be accessible from both modules, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;segments&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt;. After that, I would use some code review from my mentors here.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;The main goal for this week is to fix the DOM structure and implement the widget for our custom tag. Once that is done, we can do some nice stuff, like capture clicks and move the tags around and display the data in their &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;raw&lt;/code&gt; attribute. I also plan to do the validation of 
+the masked tags. To begin with, a simple counter per segment will be added in both, source and translation editor. Each validation error will be per segment and will be displayed in the area below. I will also display exactly which tags are missing, so that the user gets a 
+better idea which tags need to be added. More about it later in the followups.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jul 2016 16:30:00 +0000</pubDate>
+        <link>/blog/gsoc-week-8/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-8/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 7. week</title>
+        <description>&lt;p&gt;With the time passing by, my final product for the Google Summer of Code 2016 is starting to get the shape. The user’s workflow for the translation with &lt;a href=&quot;https://www.drupal.org/project/tmgmt&quot;&gt;TMGMT&lt;/a&gt; will be easier than ever with 
+the CKEditor plugins that I am working on for this summer project. I clearly divided the content into segments and displayed them in the editor before the midterm evaluation period in my first segments plugin. You can read more about that in my 
+blog post from week 5 - &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-5-week/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second plugin called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt; is currently being developed. With it, we want to mask HTML tags inside segments, so that the user can get a better idea of the structure of the content, see which tags are set, opened and check, if they are properly closed.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;The seventh week was in a sign of blockers - parts of code that are complex, not yet implemented, not functioning properly or just simply need discussion. I started the week with some code refactoring.&lt;/p&gt;
+
+&lt;p&gt;We have discussed the structure of the masked tags. We do not support masked tag pairs. Instead, every masked tag will consist of two parts - their opening and closing element.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;element - the name of the masked HTML tag&lt;/li&gt;
+  &lt;li&gt;raw - contains the encoded tag, together with attributes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is is our definition of the masked tag’s structure:&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tmgmt-tag&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;element=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”b”&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;raw=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”&amp;amp;lt;b&amp;amp;gt;”&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;This is a masked tag&lt;span class=&quot;nt&quot;&gt;&amp;lt;tmgmt-tag&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;element=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”b”&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;raw=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”&amp;amp;lt;/b&amp;amp;gt;”&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tmgmt-tag&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;element=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”img”&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;raw=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”&amp;amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;...&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;...&amp;amp;gt;”&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The reasons for this redefinition are many. Firstly, it is really important that the editor displays the masked tags properly with their respective names. This is why we have the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;element&lt;/code&gt; attribute inside the tag. Secondly, the raw attribute contains the encoded tag. 
+In the case when the tag has some attributes like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;src&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;alt&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt;, we will easily get them from here, decode them, and display them to the user when the tag is clicked. The downside is, this makes these attributes untranslatable and they will be just placed 
+back untranslated. When unmasking, the process will simply replace &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;tmgmt-tag&amp;gt;&lt;/code&gt; with its raw property. Last, but not least, this structure helps us when looking for open and closed tags inside segments.&lt;/p&gt;
+
+&lt;p&gt;Also note, the tags above are different. The first one is a tag that requires a closing pair, the second one is a single tag (could also be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;br /&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;hr /&amp;gt;&lt;/code&gt; etc.). If the closing pair of a tag would be missing, we’d color the tag’s border in red as a sign of warning.&lt;/p&gt;
+
+&lt;p&gt;As mentioned before, I stumbled upon some blockers during this week. The first one was an issue related to closing the tags. Since I created some dummy segments with masked tags inside, the editor’s behaviour was expected. The tags didn’t have their closing elements (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;/tmgmt-tag&amp;gt;&lt;/code&gt;),
+so they were added automatically. My mentor pointed me out to check how the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt; tag is defined in CKEditor. We found out that this is defined the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CKEDITOR.dtd&lt;/code&gt; object, which holds the representation of the HTML DTD to be used by the editor in its internal operations.
+I need to define the tag in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$empty&lt;/code&gt; object, which contains the list of empty (self-closing) elements.&lt;/p&gt;
+
+&lt;p&gt;I also started working on the topic of perfect matching. This consists of getting the translation of a segment from the &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;translation memory&lt;/a&gt; and checking for a full match. This means, that the text and the HTML structure of a selected 
+segment both match with the translation in the memory. Fuzzy matching would be, if only one of that would match. The segments in the memory are unmasked, while we can only get the masked segments from the editor and send them through the HTTP request to the service.&lt;/p&gt;
+
+&lt;p&gt;The workflow of masking the tags would be the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mask the tags when the editor loads.&lt;/li&gt;
+  &lt;li&gt;Send the masked tag through the HTTP request to the service controller.&lt;/li&gt;
+  &lt;li&gt;Unmask the tag.&lt;/li&gt;
+  &lt;li&gt;Query for the translation in the memory.&lt;/li&gt;
+  &lt;li&gt;If we have a match, mask it.&lt;/li&gt;
+  &lt;li&gt;Return it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The problem is that the masking and unmasking functions are not supported in tmgmt yet. Remember, I wrote the dummy segments with some masked tags in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_ckeditor.install&lt;/code&gt; file solely for the purpose of testing. 
+Hopefully, this will be done and committed in the following days, so I can continue my work on that part.&lt;/p&gt;
+
+&lt;p&gt;I also did some improvements, like fixing the dependency to the segments plugin, display the tags in the editor pairs properly and  made the tags look nicer by adding some CSS styles.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;The plan for next week is to fix the blockers described above and to fully restructure my code. I created a prototype object last week (&lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-6-week/&quot;&gt;described here&lt;/a&gt;) containing the relevant information of the editor pair. 
+We want to implement all the relevant functions as prototype methods and have them accessible for both plugins, to prevent code duplications and make the code cleaner.&lt;/p&gt;
+
+&lt;p&gt;My GSoC project is available in my &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor/&quot;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jul 2016 15:50:00 +0000</pubDate>
+        <link>/blog/gsoc-week-7/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-7/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 6. week</title>
+        <description>&lt;p&gt;Another week passed by of my Google Summer of Code 2016 project. My &lt;a href=&quot;https://docs.google.com/document/d/1s2vqifV6rDJHXMCYKAqz7Xgd7ZEHx7zTWHVkAuwRGsg/edit?usp=sharing&quot;&gt;goal&lt;/a&gt; for this summer is to create a revamped 
+user interface for the module called Translation Management Tool, with many new features that will simplify the translation process for both, end-users and translators. 
+I divided my goals into two parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;creating segments out of the content, mark them in the editor and perform actions based on the clicked word and segment&lt;/li&gt;
+  &lt;li&gt;masking HTML tags inside segments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As we already passed the midterm evaluation, half of the project is already done in the previous weeks. I moved to the second part of my project this week. More details about my work is described below.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;As for every week, I started my weekly development cycle by refactoring the code based on my mentor’s comments. Since &lt;a href=&quot;http://sasanikolic.com/gsoc/gsoc-ckeditor-plugins-5-week/&quot;&gt;last week&lt;/a&gt; I fixed an important blocker and added the support for multiple editors on the translation and review pages,
+we agreed that the editors should only work in pairs. We now clearly mark the same segments in editor pairs and toggle the CKEditor plugin buttons accordingly. I did this by implementing a new &lt;a href=&quot;http://www.w3schools.com/js/js_object_prototypes.asp&quot;&gt;JavaScript Object Prototype&lt;/a&gt;, which contains 
+many relevant information that we want to store about the editor pair, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ID of the editor pair&lt;/li&gt;
+  &lt;li&gt;the selected editor name&lt;/li&gt;
+  &lt;li&gt;the DOM element of the area below the editor (in which we display selected segments, words and suggestions)&lt;/li&gt;
+  &lt;li&gt;the selected word&lt;/li&gt;
+  &lt;li&gt;the selected segment’s id&lt;/li&gt;
+  &lt;li&gt;the counter of segments, that are marked as completed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other than refactoring and fixing smaller issues, I started working on the new plugin for displaying the masked HTML tags inside the segments. The purpose of masking the tags is to help us understand the translating text’s structure better and cleanly show which opening/closing 
+tags are missing inside a segment. Firstly, I extended the dummy translatable node in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_ckeditor.install&lt;/code&gt; file 
+with a masked &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;b&amp;gt;&lt;/code&gt; tag that looks like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;tmgmt-tag&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;tag=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;”&amp;amp;lt;b&amp;amp;gt;”&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;text inside a masked tag&lt;span class=&quot;nt&quot;&gt;&amp;lt;/tmgmt-tag&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;tag=&quot;&amp;amp;lt;/b&amp;amp;gt;&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Once I had a tag to work on, I created a simple plugin that just displays some arrows instead of the opening and closing of the masked tags. It is fully dependent on the plugin that is displaying the 
+ segments, which means it is only enabled and available to toggle when the segments are shown, and disabled otherwise.&lt;/p&gt;
+
+&lt;p&gt;For the next steps, we should discuss about the attributes of the masked tags. 
+We should for sure preserve them throughout the translation process. In the example of alt and title tags that would possibly need translation, we could have them hidden and display them on mouse hover, so 
+that the user is aware of them being present.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/first_version_tags_plugin_2.png&quot; alt=&quot;First version of masked tags&quot; /&gt;
+    &lt;figcaption&gt;First version of the masked tags plugin.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;The plan for next week is to continue on developing a valid definition of tags and extending it’s functionality by handling data attributes properly.&lt;/p&gt;
+
+&lt;p&gt;Feel free to check my &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor/&quot;&gt;Github repository&lt;/a&gt; for being updated on the constant progress during my weeks.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jul 2016 14:45:00 +0000</pubDate>
+        <link>/blog/gsoc-week-6/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-6/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 5. week</title>
+        <description>&lt;p&gt;Week 5 is over and I have successfully passed the midterm evaluation for Google Summer of Code 2016. I really challenged myself
+by choosing a project that required from me a lot of learning and constant adaptation to changes in code. As building a nice UI like Google Translate has wasn’t enough for us, 
+we wanted to make the &lt;a href=&quot;https://www.drupal.org/project/tmgmt&quot;&gt;Translation Management Tool module&lt;/a&gt; a better CAT tool by creating a completely new user interface, with a lot of new cool features, in connection with a translation memory - 
+which would hold translations, their usage, quality, source, etc. 
+The main goal I wanted to reach before the midterm was to build the UI that displays segments of text in the CKEditor, their suggestions from the memory and all relevant information in an area below the translation editor.
+I am proud to say the progress is well visible and we are slowly but surely fulfilling all of our project requirements.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;This week was full of personal issues, but nonetheless I managed to meet all of my goals that I set in our last weekly meeting (described &lt;a href=&quot;http://sasanikolic90.github.io/gsoc/2016/06/21/gsoc-ckeditor-plugins-4-week.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Based on a quick review by my mentor &lt;a href=&quot;https://www.drupal.org/u/miro_dietiker&quot;&gt;miro_dietiker&lt;/a&gt;, I fixed quite a few code issues. Since last week I implemented the connection between my plugin (the UI part) with 
+the &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;tmgmt_memory&lt;/a&gt;), I got a few comments about the structure of the http request and response. I had to extend the request with source and target languages, the response on the other 
+hand was lacking of more info about the source of the translation, stripped text and quality. I also changed the code to support multiple translations by adding a new level of nesting to the response with clearly describing keys and corresponding 
+values. This means we can have multiple translations in the memory for one segment, which means that the user can choose between them which one he thinks is the best and use it as a translation by just a single click on a button.&lt;/p&gt;
+
+&lt;p&gt;Another cool feature I implemented is the listener for the changes, made by the user in the editor. I faced some trouble doing that, but with some helpful input in this &lt;a href=&quot;http://stackoverflow.com/questions/37944376/ckeditor-get-changed-content-and-surrounding-html-tags&quot;&gt;stackoverflow thread&lt;/a&gt; 
+that I opened, I managed to do that with a timer and the &lt;a href=&quot;http://docs.ckeditor.com/#!/api/CKEDITOR.event&quot;&gt;CKEditor onChange&lt;/a&gt; event. This might be a bottleneck in pefromance perspective, since we are calling the http request many times because of 
+the timer, but I found this to be the only viable solution for that issue for now. Once this is implemented, the addition of the data attributes for the source of the translation was easily done (if it comes from the user or from the memory).&lt;/p&gt;
+
+&lt;p&gt;The markup to do real pairing of the editors was my main focus this week. We need to support more than just two editors on the page, for example when translating multiple fields like paragraphs, we can end up having n-pairs of editors. 
+To do this, a lot of refactoring was needed, which resulted in more than 300 lines of code changed. Firstly, I created a new node with paragraphs, which contain segments with specific ids. This was done in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_ckeditor.install&lt;/code&gt;, so that it 
+happens when the module is enabled - which makes the usage and the progress of the plugin available right out of the box.
+After that, we needed an initial for loop over all source editors to populate the translation editors with data. This might be the only for loop in code that can exist. I removed the for loops that were present when searching for same segments and marking them as active, since 
+this is very time consuming and might result in a bad performance when having many editors on page. We are pairing the editors now according to their id and name (in regex: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*id*value-source-value$&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*id*value-translation-value$&lt;/code&gt;. 
+This change also affected the way that the areas below the editors are displayed and how the plugin works in general.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/img/posts/fifth_version_plugin.png&quot; alt=&quot;Fifth version of the plugin&quot; /&gt;
+    &lt;figcaption&gt;With this iteration of the plugin, we got rid of one of the biggest blockers and made it (almost) fully usable.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;Finally, the moment has come to do a full code cleanup! This will help me significantly in future development cycles as I believe the code will be structured much better and will be easier to read.&lt;/p&gt;
+
+&lt;p&gt;As for now, the only thing missing is that the segments don’t cover a case with HTML tags inside. I planned in my &lt;a href=&quot;https://docs.google.com/document/d/1s2vqifV6rDJHXMCYKAqz7Xgd7ZEHx7zTWHVkAuwRGsg/edit?usp=sharing&quot;&gt;GSoC proposal&lt;/a&gt; to start working 
+ on it this week, and so I will. The masking of HTML tags will help us to understand the structure better and cleanly show which opening/closing tags are missing inside a segment. I will firstly display an icon per defined tag (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;),
+ then I will create a toggle button to show and hide them.&lt;/p&gt;
+
+&lt;p&gt;As always, my progress and code can be found in my &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor&quot;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 18:15:00 +0000</pubDate>
+        <link>/blog/gsoc-week-5/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-5/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 4. week</title>
+        <description>&lt;p&gt;The 4th week of coding for Google Summer of Code is over and the evaluation period is starting. 
+My goal for the first half of the coding process was to create a functional CKEditor plugin for displaying segments 
+in connection with &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;tmgmt_memory&lt;/a&gt;. My main part is the UI with specific focus 
+on segments semantics and functionalities, the memory, on the other hand, contains suggested translations of segments, their 
+ quality and other useful information. Together with my mentors, we want to make TMGMT as pleasant as possible for the end users (translators).
+I believe my work is currently progressing really well and I think I’ve met most of our expectations so far. You can check my progress &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;First of all, I wanted to make the usage of my plugin easier and right out of the box. That is why, I’ve updated the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_ckeditor.install&lt;/code&gt; file to preload
+a new text format (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;translation_html&lt;/code&gt;) and a dummy translatable node with some dummy segments. This is all 
+loaded when the module is enabled. I’ve also added new dependencies for the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_demo&lt;/code&gt; module and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_memory&lt;/code&gt;. 
+With this small additions, I managed to speed up my development process, but it also allows others to easily reproduce my development status. 
+Note: this addition of a dummy segment is just a temporary setup until &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_memory&lt;/code&gt; becomes fully functional.&lt;/p&gt;
+
+&lt;p&gt;My main focus was on connecting the plugin with the backend. For this, I used the setup described above with two simple functions from the API -
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;addSegment&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;addSegmentTranslation&lt;/code&gt;, to make sure that there is a translation for the segments in the example translatable node. 
+After that, I implemented a route for the lookup of a selected segment in the translation memory. I also provided a 
+controller to answer the AJAX call that I do from my JS file. To test my API responses I used &lt;a href=&quot;https://www.getpostman.com&quot;&gt;Postman&lt;/a&gt;. This is an 
+app that allows you to send POST/GET/PUT/DELETE etc. requests to see API response. The code can be viewed in &lt;a href=&quot;https://github.com/sasanikolic90/CKEditorSegments/commit/75bc39943132341aab74fc0bb98cfac64774184e&quot;&gt;this commit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I had a smaller issue here. My first version of the request was synchronous, which is deprecated because of its detrimental effects to the 
+end user’s experience. In fact, synchronous requests block the execution of the code and waits until we get a valid response from our server. 
+This can create “freezing” on the screen and an unresponsive user experience. I fixed it by following this &lt;a href=&quot;http://www.w3schools.com/json/json_http.asp&quot;&gt;JSON Http Request example&lt;/a&gt;. 
+I created a callback function that gets the translation of the segment from the memory and displays it as a suggestion in the area below the editor. 
+The user can then click on the button and replace the segment with the suggested translation. With a simple right click, it can be marked as completed (and the counter below is increased).
+I implemented the context menu item last week - &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-3-week&quot;&gt;see here for more details&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As my mentor &lt;a href=&quot;https://www.drupal.org/u/miro_dietiker&quot;&gt;miro_dietiker&lt;/a&gt; pointed out, “classes are pseudo application states and usually done for 
+very simple indication so that you can use CSS for applying styles”. In other words, since we are building a complex application with various states, 
+we will be using data-attributes to address them. So I dropped the class usage and started working on adding more data attributes to segments.
+I started with toggling active status when the segment is clicked and adding the source attribute. We will have to store if the translation was 
+done by a user, came from a machine translator or from the memory.&lt;/p&gt;
+
+&lt;p&gt;There is still work to be done on the data attributes, as seen below. We need to properly define their naming and replace &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ids&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;data-ids&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/data_attributes.png&quot; alt=&quot;Fourth version of the plugin&quot; style=&quot;display: block; margin: auto; width: 60%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;I plan to continue working on implementing the remaining data attributes. Another issue will be to support multiple translation memory 
+matches. We will display N results with N buttons to accept each for every translation suggestion.&lt;/p&gt;
+
+&lt;p&gt;My main focus will be on fixing the markup to do real pairing of the editors, because we have to support more than 2 editors on the page - paragraphs
+translation for example might result in many editor instances. For now, we have a for loop that goes through all editor instances
+on the page and checks for same segments. This adds lags in interaction and could result in a real bottleneck, that’s why it’s on top of 
+our priority list.&lt;/p&gt;
+
+&lt;p&gt;We are also in discussions with my mentors about whether or not to use jQuery helpers in the plugin. Our initial plan was to have it purely written 
+in Javascript, but I believe jQuery would provide helpers for many DOM lookups and would speed up my development process, other than significantly clean up 
+the code.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jun 2016 19:16:00 +0000</pubDate>
+        <link>/blog/gsoc-week-4/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-4/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 3. week</title>
+        <description>&lt;p&gt;This week of my Google Summer of Code project went by pretty fast, with lots of discussions 
+and new ideas for future work with segments semantics, related to my &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-getting-started&quot;&gt;CKEditor plugin for TMGMT&lt;/a&gt;. 
+My initial goal is to extend the CKEditor with a new plugin written in Javascript, that defines 
+segments as parts of the content and perform specific linguistic actions on them.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;My third week of work was quite busy, since I had to fix some issues, work on making the UI fully functional and add some new functionalities, 
+as defined last week - described in my previous &lt;a href=&quot;http://sasanikolic.com/gsoc-2016/gsoc-ckeditor-plugins-2-week&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first fix I needed to do was to populate the segments in the translation editor from the source when the ckeditor is loaded. 
+Users actions can then be performed on this segments. All active segments are marked with colors in both editors. 
+We could have an issue, if there are more than two editors on page - for example if the source is a node with paragraphs, it could end up in 
+having 10 or more wysiwyg editors on page. For now, we support only one wysiwyg field. In later iterations we might 
+add the support for more and marking segments in the corresponding ones.&lt;/p&gt;
+
+&lt;p&gt;Apart from fixing stuff, I also added some new functionalites this week. For now, I hardcoded a translation proposal that will end up being a returned string 
+from translation memory. On a click of a button, the user can confirm the suggestion is right and replace the whole content 
+of a segment with it. After that the user can right click on a segment and select the option to set the segment’s status 
+as completed. This ends up in marking the segment in both editors in green for easier visualization. We set also a counter in 
+the area below to display the number of completed segments.&lt;/p&gt;
+
+&lt;p&gt;I also worked on the area below the editor. All relevant data is 
+displayed in a much more simple and understandable way. I will make some propositions in the future to restyle it for 
+optimal (proper) usage, based on the UI of &lt;a href=&quot;https://translate.google.com&quot;&gt;Google Translate&lt;/a&gt; 
+and some &lt;a href=&quot;https://en.wikipedia.org/wiki/Computer-assisted_translation#Some_notable_CAT_tools&quot;&gt;notable CAT tools&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The image below demonstrates the current progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/third_version_plugin.png&quot; alt=&quot;Contextual action on segments&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;As on schedule, we’re moving to the most intriguing part, connecting the frontend (my plugin) with the backend part. 
+I will start the integration of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tmgmt_memory&lt;/code&gt; (can be found in &lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;edurenye’s sandbox&lt;/a&gt;) 
+by &lt;em&gt;saving&lt;/em&gt; a few segments through the API and &lt;em&gt;displaying&lt;/em&gt; the dummy translation as we are doing it now below the editor. 
+These two functions are our starting point and will build on top of that once it’s done.&lt;/p&gt;
+
+&lt;p&gt;This operations could raise some extra complexity. We will have to define what happens when we will have multiple matches, for example.
+But this kind of questions are not in our priority list as for now.&lt;/p&gt;
+
+&lt;p&gt;Other than that, I will also need to fix a few smaller things, like enabling the contextual menu (right click item) only 
+when the segments are displayed.&lt;/p&gt;
+
+&lt;p&gt;When all of the above is done, we will do a full code cleanup. The priority after that will be to make it 
+really usable for users. I think one of the main blockers now is the fact that we support only two editors per page and I will
+focus on that part.&lt;/p&gt;
+
+&lt;p&gt;As the discussions with my mentor always result in a lot of new scopes and ideas. We defined new meta data for the segments to mark the quality of 
+the translation and it’s source - if it comes from the user, machine translation or from the translation memory. 
+We might do this by just setting the status to “needs review” and “needs work” initially. Also, another tag should be added 
+if a segment is modified. With all this complexity of meta tags, we should define them clearly and keep good track of them.
+If I will find time, I might implement them this week, but the priority is connecting the translaton memory.&lt;/p&gt;
+
+&lt;p&gt;All my code can be viewed on my &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor&quot;&gt;github project&lt;/a&gt;. 
+Feel free to check my progress over the weeks.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Jun 2016 12:32:00 +0000</pubDate>
+        <link>/blog/gsoc-week-3/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-3/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 2. week</title>
+        <description>&lt;p&gt;Our last weekly meeting with my mentors was really inspiring. We defined new goals for the next two 
+weeks and discussed various topics regarding my project. I got to know the challenges a little 
+bit better and got some new motivation and an in-depth insight on what my future work will consist of.&lt;/p&gt;
+
+&lt;p&gt;With the related project we realized that by focusing on some aspects, we can significantly lower the project complexity.
+One of it is to make the plugins Drupal specific. This is why we agreed on the module name: &lt;em&gt;tmgmt_ckeditor&lt;/em&gt;, which will contain
+the CKEditor plugins that will be done for this year’s GSoC project.
+The second one is focusing on one specific browser. For now, we will make everything work in Google Chrome.
+We believe that generalising the plugin would be a healthy follow-up if demand will arise.&lt;/p&gt;
+
+&lt;p&gt;As the first version of the plugin was only an initial prototype we would like to build up on 
+top of it with adding more functionalities.&lt;/p&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;Displaying the segments is the core functionality that I did in the first week. I worked on extending it -
+now when we click on the &lt;em&gt;Display Segments&lt;/em&gt; icon, we display them also in the source editor other than just
+in the translate editor. This is a nice and useful feature, as the translator gets the idea how the segment 
+looked before the translation.&lt;/p&gt;
+
+&lt;p&gt;We now also visually anotate the current segment - currently it is colored in red. I will fix that
+in the next iteration to color the opening and closing icons of the segment. Colors will be based on the 
+segment’s/translation status.&lt;/p&gt;
+
+&lt;p&gt;I opened &lt;a href=&quot;https://www.drupal.org/node/2742525&quot;&gt;an issue&lt;/a&gt; to discuss the segmentation semantics. 
+We will use this to connect segments in the source and in the translation editor.
+For now, we’re using IDs. We will surely change that because we want to have the markup valid (we can’t have same IDs 
+on one page).&lt;/p&gt;
+
+&lt;p&gt;Context interaction will be one of the key points of our plugin. When a user clicks on a word, it is displayed 
+in an area below the editor. With that we also get the whole content of a segment. We can then provide 
+useful translation suggestions from the translation memory based on clicked words and sentences and perform 
+other actions. For that, I implemented a &lt;em&gt;CKEDITOR.event&lt;/em&gt; listener for clicks and two helper functions.
+One gets the clicked word and the other displays the content. The current UI can be seen in the image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/second_version_plugin.png&quot; alt=&quot;Displaying segments and on click actions (second version)&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;Our goal is to use a dummy translation of a segment and make a fully functional UI first. To achieve that, I still need 
+to fix a few bugs and work on extending the code with some “fake” translation memory and other features. I will also
+cleanup and restructure the code to follow an easy to read pattern that will help us in the long run.
+After that, we will move to connecting it with the backend API (in plan for the week after).&lt;/p&gt;
+
+&lt;p&gt;I must say I am really enjoying working on this project. It is really fun, I am learning a lot 
+and it feels like making a puzzle. :)&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Jun 2016 14:00:00 +0000</pubDate>
+        <link>/blog/gsoc-week-2/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-2/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] CKEditor plugins - 1. week</title>
+        <description>&lt;p&gt;The Google Summer of Code 2016 coding period started last week, 
+May 23rd and since then, every student started to actively work on their project.
+After the one-month long community bonding period, it was time to start coding.&lt;/p&gt;
+
+&lt;p&gt;I had many things scheduled for this first week. Firstly, I found some interesting 
+mockups to get a broader idea, what we are building and how it should look like. 
+Secondly, I created a &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor&quot;&gt;GitHub repository&lt;/a&gt; 
+and a &lt;a href=&quot;https://www.drupal.org/sandbox/sasanikolic/2737249&quot;&gt;sandbox project&lt;/a&gt; on d.o.&lt;/p&gt;
+
+&lt;p&gt;After that preparation, I immediately jumped into it and went through some tutorials on how to make custom 
+&lt;a href=&quot;http://ckeditor.com/&quot;&gt;CKEditor&lt;/a&gt; plugins for Drupal. I found &lt;a href=&quot;https://medium.com/@CayugaSoft/creation-of-extended-functionality-for-the-basic-ckeditor-in-drupal-8-f9e6990aa48f#.19v3bp7b4&quot;&gt;this tutorial&lt;/a&gt; 
+really useful. It was really easy to follow and it guided me step by step. I have 
+also read many discussions about custom plugin development and how to convert them to Drupal.
+And there is also some nice documentation on the &lt;a href=&quot;https://www.drupal.org/developing/api/8/ckeditor&quot;&gt;CKEditor API&lt;/a&gt; 
+for Drupal.&lt;/p&gt;
+
+&lt;p&gt;A general overview of the CKEditor and it’s development was also presented at DrupalCon Amsterdam 2014 by &lt;a href=&quot;https://www.drupal.org/u/wwalc&quot;&gt;wwalc&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/v/h9KV_VRvIG8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;achievements&quot;&gt;Achievements&lt;/h2&gt;
+&lt;p&gt;With all those nice guides and examples, it was fairly easy to make the first version of my plugin.
+I created a new Drupal module, found some nice icons and started working with the javascript file.
+The initial version is using user-defined &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;tmgmt-segment&amp;gt;&lt;/code&gt; tags in the source code. With them we 
+define specific segments (e.g. divisions and paragraphs), that are then easier to translate.
+As by our goals, when the user clicks on the &lt;em&gt;‘Display segments’&lt;/em&gt; button, a simple search is performed on 
+our tags. They are then replaced by some nice icons, showing where the segments start and end. This enables 
+the translator to see them clearly and perform his actions.
+This is shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/first_version_plugin.png&quot; alt=&quot;Displaying segments (first version)&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-for-next-week&quot;&gt;Goals for next week&lt;/h2&gt;
+&lt;p&gt;For next week we want to extend the functionality of the initial plugin by displaying 
+the context below the text area and show the segments in both editors (source and translation) - to clearly 
+distinguish the currently marked segment.
+Also, a specific word that was clicked should be displayed below. We can then use it to gather 
+possible translations, check if it already exists in the TMGMT memory, etc.
+I also believe the module needs to be renamed to something more simple and easier to read - 
+on our weekly meeting we agreed on the name &lt;em&gt;tmgmt_ckeditor&lt;/em&gt;, since we are building a TMGMT 
+specific CKEditor plugin.&lt;/p&gt;
+
+&lt;p&gt;You can find my code on &lt;a href=&quot;https://github.com/sasanikolic90/tmgmt_ckeditor&quot;&gt;GitHub&lt;/a&gt; 
+and follow my progress there. Looking forward to start implementing some more fun stuff!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2016 11:05:00 +0000</pubDate>
+        <link>/blog/gsoc-week-1/</link>
+        <guid isPermaLink="true">/blog/gsoc-week-1/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] Getting started</title>
+        <description>&lt;p&gt;After the accepted student proposals were announced on the Google Summer of Code 2016 site on the 22nd of April, 
+the community bonding period started. The idea of this part is to get to know mentors, read documentation, 
+get up to speed to begin working on assigned projects.&lt;/p&gt;
+
+&lt;p&gt;Since I had university courses and lots of assignments, I found the time to check &lt;a href=&quot;https://www.drupal.org/&quot;&gt;drupal.org&lt;/a&gt;
+frequently to see the issue progress. I already got to know the community from my internship, hence - the bonding was already
+established, I just needed remain in contact with it. We often had discussions with my mentor about tools to use, my project timeline, 
+our meetings, things that needed to be done before I start, etc. I also connected with other GSoC students and made some friends 
+amongst them. Together with &lt;a href=&quot;https://www.drupal.org/u/mbovan&quot;&gt;mbovan&lt;/a&gt;, we shared many information about GSoC, our projects, timelines and
+experiences.&lt;/p&gt;
+
+&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
+&lt;p&gt;We made some conclusions about which tools to use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;PHPStorm&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Typescript&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Atom&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mattermost/Skype (for communication and meetings)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Colloquy (IRC)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trello board (for tasks management)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Google docs for meeting notes&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;meetings&quot;&gt;Meetings&lt;/h1&gt;
+&lt;p&gt;We scheduled our meetings every Tuesday at 15:30 (CEST).&lt;/p&gt;
+
+&lt;h1 id=&quot;details&quot;&gt;Details&lt;/h1&gt;
+&lt;p&gt;I was mostly in discussion with &lt;a href=&quot;https://www.drupal.org/u/edurenye&quot;&gt;edurenye&lt;/a&gt;. He made 
+&lt;a href=&quot;https://www.drupal.org/sandbox/edurenye/2715815&quot;&gt;this sandbox&lt;/a&gt;, on which my code will be based - this is the backend 
+part of the next step we want to do in TMGMT. Like I described in 
+&lt;a href=&quot;http://sasanikolic90.github.io/gsoc/google/project/2016/05/24/gsoc.html&quot;&gt;my previous post&lt;/a&gt;, we would 
+like to implement an alternative to WYSYWIG editor. With different CKEditor libraries we want to provide some 
+special linguistic actions, like defining specific segments and indicate their translation quality, give users alternative
+suggestions from translation memory, etc. The segmentation part is done by now, so I can start working on the frontend part - 
+building the plugin for the CKEditor.&lt;/p&gt;
+
+&lt;h1 id=&quot;this-weeks-goals&quot;&gt;This week’s goals&lt;/h1&gt;
+&lt;p&gt;For the first week I was planning to start with the first plugin for segments. The plan is to detect a segment without 
+changing the source dom, indicate it and detect its context by displaying it in an area below the editor. 
+Later on more functionalities will be added.&lt;/p&gt;
+
+&lt;p&gt;In the next topic I will describe what I learnt in the first week and the following steps. Stay tuned!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 May 2016 08:55:00 +0000</pubDate>
+        <link>/blog/gsoc-getting-started/</link>
+        <guid isPermaLink="true">/blog/gsoc-getting-started/</guid>
+      </item>
+    
+      <item>
+        <title>[GSoC 2016] Introduction</title>
+        <description>&lt;h2 id=&quot;drupal-intro&quot;&gt;Drupal intro&lt;/h2&gt;
+
+&lt;p&gt;“Drupal™ - Build something amazing”. These are the initial words that are written on the &lt;a href=&quot;https://www.drupal.org&quot;&gt;landing page&lt;/a&gt; of Drupal, one of the leading open source content management systems currently available.&lt;/p&gt;
+
+&lt;p&gt;My personal contribution to Drupal 8 started in February, 2015. I did my internship in MD Systems in Zurich - Switzerland for one year and contributed to Drupal core and many other modules, I learnt a lot about 
+Drupal in general, the community and the coding process. In the meantime many new ideas arised on how to make things better in the future, especially for many popular custom modules for Drupal 8, like Paragraphs and Translation Management. 
+Together with &lt;a href=&quot;https://www.drupal.org/u/miro_dietiker&quot;&gt;Miro Dietiker&lt;/a&gt;, the CEO of MD Systems, we discussed a lot about the opportunities and agreed on what projects would be suitable for me.
+We decided to apply for Google Summer of Code, an initiative by Google to support 178 organizations by including students to write code and learn about the open source development. 
+I really believe it is a great opportunity to spend the summer break between exams contributing to build something cool for the community and the end users. I would love to extend my project in the future and write a master thesis about it. 
+Last, but not least, I find the idea to try and work remotely really intriguing, since I’ve always wanted to combine travelling and coding - two of my passions. Participants can gain a lot on their personal side too, since to finish the project 
+successfully, you need to learn how to be organized, disciplined and stay motivated.&lt;/p&gt;
+
+&lt;p&gt;I feel really inspired by the initial words in the quote, that I am eagerly looking forward to start working on my project to build something really amazing!&lt;/p&gt;
+
+&lt;h3 id=&quot;gsoc-topic&quot;&gt;GSoC topic&lt;/h3&gt;
+
+&lt;p&gt;To apply for Google Summer of Code, every student had to write a proposal about the project they are building. Mine is based on the Translation Management module.
+This is a short abstract:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Translation Management Tool (TMGMT) module is an extension to support editors, publishers, translators and 
+project managers during their process of content translation. Since I think that Local Translator is a very 
+useful submodule, there are still lots of things missing. The tool was working in Drupal 7, but it was rather 
+limited in functionality and by far not fulfilling expectations of professional translators. I believe the next 
+goal is to make the Local Translator a professional CAT Tool and I would like to help with implementing CKEditor 
+plugins using Javascript. Because TMGMT wants to use the CKEditor libraries to build an alternative non-WYSIWYG 
+translation editor, I would propose to implement some special linguistic actions like defining segments, marking 
+them in the UI and masking specific HTML tags.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;gsoc-proposal&quot;&gt;GSoC Proposal&lt;/h3&gt;
+&lt;p&gt;You can read the whole GSoC proposal &lt;a href=&quot;https://docs.google.com/document/d/1s2vqifV6rDJHXMCYKAqz7Xgd7ZEHx7zTWHVkAuwRGsg/edit?usp=sharing&quot;&gt;at this url&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 May 2016 08:30:00 +0000</pubDate>
+        <link>/blog/gsoc-introduction/</link>
+        <guid isPermaLink="true">/blog/gsoc-introduction/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+    
+      
+        
+          <item>
+            <title></title>
+            <description>&lt;h3&gt;  {{ page.title }} &lt;/h3&gt;
+
+&lt;div id=&quot;categories&quot;&gt;
+{% for tag in site.tags %}
+  &lt;div class=&quot;category-box&quot; &gt;
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    &lt;div id=&quot;#{{ tag_name | slugize }}&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;tag-head&quot;&gt;&lt;a href=&quot;{{ site.baseurl }}/blog/categories/{{ tag_name }}&quot;&gt;{{ tag_name }}&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;{{ tag_name | slugize }}&quot;&gt;&lt;/a&gt;
+     {% for post in site.tags[tag_name] %}
+    &lt;article class=&quot;center&quot;&gt;
+      &lt;h6 &gt;&lt;a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;&gt;{{post.title}}&lt;/a&gt;&lt;/h6&gt;
+    &lt;/article&gt;
+
+    {% endfor %}
+    
+  &lt;/div&gt;
+{% endfor %}
+&lt;/div&gt;
+
+
+</description>
+            <link>/blog/tags/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title></title>
+            <description>&lt;h3&gt;  {{ page.title }} &lt;/h3&gt;
+
+&lt;div id=&quot;categories&quot;&gt;
+{% for category in site.categories %}
+  &lt;div class=&quot;category-box&quot; &gt;
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    &lt;div id=&quot;#{{ category_name | slugize }}&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;{{ site.baseurl }}/blog/categories/{{ category_name }}&quot;&gt;{{ category_name }}&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;{{ category_name | slugize }}&quot;&gt;&lt;/a&gt;
+     {% for post in site.categories[category_name] %}
+    &lt;article class=&quot;center&quot;&gt;
+      &lt;h6 &gt;&lt;a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;&gt;{{post.title}}&lt;/a&gt;&lt;/h6&gt;
+    &lt;/article&gt;
+
+
+    {% endfor %}
+
+  &lt;/div&gt;
+{% endfor %}
+&lt;/div&gt;
+
+
+</description>
+            <link>/blog/categories/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Jekyll</title>
+            <description>&lt;h5&gt; Posts by Tag : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.tags.jekyll %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>/blog/tags/jekyll</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
